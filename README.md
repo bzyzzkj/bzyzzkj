@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bzyzzkj
 - 👀 I’m interested in game design and data science!
-- 🌱 I’m currently learning python/jsvascript!
+- 🌱 I’m currently learning python/javascript!
 
 <!---
 bzyzzkj/bzyzzkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
